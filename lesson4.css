@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+  color: cadetblue;
+  font-family: monospace;
+  font-size: 30px;
+}
+p {
+  text-align: center;
+  line-height: 2px;
+  font-size: 15px;
+  color: lightcoral;
+}
